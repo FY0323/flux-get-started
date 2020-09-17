@@ -1,0 +1,1 @@
+{"jobID":"8a980d92-941e-2cdc-7aca-85ebd41889cd","spec":{"type":"policy","cause":{"Message":"","User":"FY0323 \u003cfuta.yamaji@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}

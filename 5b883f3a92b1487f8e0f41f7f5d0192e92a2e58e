@@ -1,0 +1,1 @@
+{"jobID":"742193ba-0365-2a77-8a38-02492edce482","spec":{"type":"policy","cause":{"Message":"","User":"FY0323 \u003cfuta.yamaji@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
